@@ -1,6 +1,6 @@
 ### Hello 👋, and welcome to my Github profile!
 
-Hi! I am Ashok Acharya, a certified Data Analyst/Scientist looking to build my career in Data Science and Artificial Intelligence 
+Hi! I am Ashok Acharya, a certified Data Analyst/Scientist looking to build my career in Data Science and Artificial Intelligence.
 
 #About Me
 
