@@ -1,3 +1,5 @@
+![Ashok Acharya](https://github.com/aashok30/aashok30/assets/101622691/e4ac2e0b-5317-40f7-a61d-b934e6889c39)
+
 # 💫 About Me:
 Hello 👋, Everyone!<br>I am Ashok Acharya, a certified Data Analyst looking to build my career in Data Science and Artificial Intelligence.<br><br>🔭 I’m currently looking for an opportunity to showcase my skills and wanted to grow along with the Data Science community.<br>🌱 I've completed my certification in Data Science from Imarticus Learning.
 
